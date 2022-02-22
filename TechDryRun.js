@@ -1,7 +1,7 @@
 //Tech Dry Run
 
 var hrr18 = {
-  name: 'Minwen Liu for try'
+  name: 'Minwen Liu test'
 
 }
 
